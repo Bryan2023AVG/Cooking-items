@@ -2,6 +2,7 @@
 #include <stdlib.h>
 int main()
 {
+	//This Program does malloc operation
 	int *ptr=NULL;
 	char *pchar=NULL;
 	
